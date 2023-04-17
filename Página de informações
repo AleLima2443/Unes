@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>UNES - Página Principal</title>
+  <title>UNES - Página de Informações</title>
 </head>
-<body>
+<body background= "imagens/fundo2.png>
   <table border="0" width="900" align="center">
     
     <tr>
